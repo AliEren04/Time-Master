@@ -8,7 +8,7 @@ setup(
     description="A high-precision, drift-free time management library providing stopwatch, countdown, and granular time data extraction.",
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/AliEren04/TIMEMASTER",
+    url="https://github.com/AliEren04/Time-Master",
     packages=find_packages(),
     keywords="timer, stopwatch, countdown, precision, monotonic, beep, cross-platform",
     classifiers=[
