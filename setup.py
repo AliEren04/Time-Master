@@ -17,5 +17,5 @@ setup(
         "Operating System :: OS Independent",
         "Topic :: Utilities",
     ],
-    python_requires='>=3.12', # S
+    python_requires='>=3.12',
 )
